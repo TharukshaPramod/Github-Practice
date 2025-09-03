@@ -1,4 +1,1 @@
-
-shared-line: base
-git checkout feature-login
-
+shared-line: feature-login + feature-dashboard merged
