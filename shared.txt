@@ -1,2 +1,1 @@
-shared-line: base
-
+shared-line: feature-dashboard
